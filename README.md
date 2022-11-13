@@ -2,5 +2,5 @@
 
 Tech Stack use here is : 
 <li> React.js </li>
-<li> React.js </li>
-<li> React.js </li>
+<li> some api </li>
+<li> some other api </li>
